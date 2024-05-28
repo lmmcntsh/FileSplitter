@@ -24,7 +24,7 @@ def count_lines(file):
 def config_split():
     global num_of_files, lines_per_file
     
-    lines_per_file = int(input("How many lines would you like per file? (Leave blank for an even split per file): "))
+    lines_per_file = int(input("How many lines would you like per file?: "))
 
     # num_of_files = int(input("How many files would you like to split this into?(2 or more): "))
     num_of_files = math.ceil(total_linecount / lines_per_file)
