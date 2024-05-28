@@ -31,9 +31,9 @@ After selecting your file, FileSplitter will automatically count the number of l
 ### Configuring Your Split
 After your main file is chosen you will be asked how many lines per file you would like.
 ![image](https://github.com/lmmcntsh/FileSplitter/assets/112915632/ca53e9d4-80f0-417f-9990-2378a6fbb6f3)
-It will check your file's total size and tell you how many files it will create to reach your desired split. You can hit "y" to confirm and continue or "n" to quit the process. \
+It will check your file's total size and tell you how many files it will create to reach your desired split. You can hit "y" to confirm and continue or "n" to quit the process. 
 
-*Will be adding the ability to set an output directory but for now, files will just be created in the same directory as the main file.
+*Will be adding the ability to set an output directory but for now, files will just be created in the same directory as the main file.*
 
 ## RETRIEVING YOUR FILES
 After the final confirmation, the files will be created under the same name as your target file, being stored in the same directory. You can see an example below \
