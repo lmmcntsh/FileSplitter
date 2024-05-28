@@ -36,7 +36,7 @@ It will check your file's total size and tell you how many files it will create 
 *Will be adding the ability to set an output directory but for now, files will just be created in the same directory as the main file.
 
 ## RETRIEVING YOUR FILES
-After the final confirmation, the files will be created under the same name as your target file, being stored in the same directory. You can see an example below
+After the final confirmation, the files will be created under the same name as your target file, being stored in the same directory. You can see an example below \
 ![image](https://github.com/lmmcntsh/FileSplitter/assets/112915632/c05c86a7-8ff5-4e4d-9cf6-76ee0865fd50)
 
 
